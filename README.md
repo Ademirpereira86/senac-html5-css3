@@ -1,4 +1,4 @@
-# Anotações de aula da turma HMCS27 - Senac
+# Anotações de aula - Senac
 Oi galera. Criei esse repositório para disponibilizar para vocês as anotações das aulas e também os códigos que digitamos durante o curso.
 
 Você pode optar por apenas consultar os códigos aqui no meu github mesmo, ou também fazer download de todos eles zipados para estudar e alterar o que você quiser.
