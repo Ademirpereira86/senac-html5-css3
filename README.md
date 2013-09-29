@@ -19,5 +19,14 @@ Você pode optar por apenas consultar os códigos aqui no meu github mesmo, ou t
 
 
 ## Explicações
+
 * [Doctypes](https://github.com/wbruno/senac-html5-css3/blob/master/DOCTYPEs.md)
 * [Tags](https://github.com/wbruno/senac-html5-css3/blob/master/TAGs.md)
+
+
+## Contatos Professor William Bruno
+
+Email wbrunom[at]gmail.com
+Blog [wbruno.com.br](http://wbruno.com.br/)
+Github [github.com/wbruno](https://github.com/wbruno/)
+
