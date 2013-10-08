@@ -1,27 +1,59 @@
-# Aula 3
+# Roteiro - Aula 3
 
-## Sintaxe CSS
-Aqui identificamos e expomos tecnicamente propriedades e valores
+## Apresentação das tags
+``` html
+<h1></h1>
+<h2></h2>
+...
+<h6></h6>
 
-``` css
-seletor {
-    propriedade: valor;    
-}
-```
+<p></p>
+<strong></strong>
+<em></em>
 
-## Unidades de medida
-px, em, rem, pt, %
+<i></i>
+<b></b>
+<span></span>
+<div></div>
 
+<article></article>
+<aside></aside>
+<header></header>
+<footer></footer>
+<nav></nav>
+<section></section>
 
-## Cores
-Como funciona hexadecimal
+<ul></ul>
+<ol></ol>
+<li></li>
 
+<dl></dl>
+<dt></dt>
+<dd></dd>
 
-## 3 Formas de importar o css
-inline, tag style e externo
+<img />
+<audio></audio>
+<video></video>
+<object></object>
 
+<table></table>
+<tr></tr>
+<td></td>
+<th></th>
+<thead></thead>
+<tbody></tbody>
+<tfooter></tfooter>
 
-## Apresentar todas as propriedades CSS
-O Maujor é referência pra estudo das propriedades
+<form></form>
+<fieldset></fieldset>
+<label></label>
+<input />
+<select>
+    <option></option>
+</select>
+<textarea></textarea>
+
+<br />
+
 
 
