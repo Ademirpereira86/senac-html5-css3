@@ -5,6 +5,7 @@ Aqui estarão os links interessantes que vou mostrar durante o curso
 ## Desenhados apenas com css 3 puro, sem o uso de imagens
 * [Homer - Simpsons](http://bernarddeluna.com/project/pure-css3-homer/)
 * [Kenny - South Park](https://developer.mozilla.org/pt-BR/demos/detail/pure-css3-south-park-kenny)
+* [Pinocchio](http://codepen.io/Guilh/full/rcAdu)
 
 
 ## Demonstrações de APIs HTML5
