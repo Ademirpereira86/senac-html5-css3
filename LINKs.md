@@ -18,3 +18,7 @@ Aqui estarão os links interessantes que vou mostrar durante o curso
 * [PhoneGAP - Apache Cordova](http://phonegap.com/)
 * [BlackBerry 10](http://developer.blackberry.com/html5/)
 * [Biblioteca QT](http://qt-project.org/)
+
+
+## Atributo mailto
+* [Atributo mailto](http://www.webdevelopersnotes.com/tips/html/html_mailto_attribute_html_tips.php3)
