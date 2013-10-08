@@ -9,6 +9,20 @@ seletor {
 }
 ```
 
+
+## Tipos de seletores
+``` css
+#id {
+    propriedade: valor;
+}
+.classe {
+    propriedade: valor;   
+}
+tag {
+    propriedade: valor;    
+}
+```
+
 ## Unidades de medida
 px, em, rem, pt, %
 

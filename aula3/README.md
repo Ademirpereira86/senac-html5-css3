@@ -10,6 +10,9 @@
 <p></p>
 <strong></strong>
 <em></em>
+<small></small>
+<sub></sub>
+<sup></sup>
 
 <i></i>
 <b></b>
@@ -35,6 +38,10 @@
 <audio></audio>
 <video></video>
 <object></object>
+<iframe></iframe>
+
+<time></time>
+<a></a>
 
 <table></table>
 <tr></tr>
@@ -42,7 +49,7 @@
 <th></th>
 <thead></thead>
 <tbody></tbody>
-<tfooter></tfooter>
+<tfoot></tfoot>
 
 <form></form>
 <fieldset></fieldset>
@@ -52,8 +59,18 @@
     <option></option>
 </select>
 <textarea></textarea>
+<legend></legend>
+<button></button>
 
 <br />
+<pre></pre>
 
 
+<script></script>
+<noscript></noscript>
+<style></style>
+<link />
+
+<meta />
+<base />
 
