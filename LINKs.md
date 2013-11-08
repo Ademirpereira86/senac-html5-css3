@@ -19,6 +19,7 @@ Aqui estarão os links interessantes que vou mostrar durante o curso
 * [BlackBerry 10](http://developer.blackberry.com/html5/)
 * [Biblioteca QT](http://qt-project.org/)
 * [Apostila Caelum](http://www.caelum.com.br/apostila-html-css-javascript/)
+* [CSS Reference MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 
 ## Aprender a programar
