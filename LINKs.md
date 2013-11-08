@@ -18,6 +18,13 @@ Aqui estarão os links interessantes que vou mostrar durante o curso
 * [PhoneGAP - Apache Cordova](http://phonegap.com/)
 * [BlackBerry 10](http://developer.blackberry.com/html5/)
 * [Biblioteca QT](http://qt-project.org/)
+* [Apostila Caelum](http://www.caelum.com.br/apostila-html-css-javascript/)
+
+
+## Aprender a programar
+* [CodeCombat](http://codecombat.com/)
+* [jsWarrior](http://jswarrior.fusioncharts.com/level/1)
+* [Learn JS](http://www.learn-js.org/)
 
 
 ## Atributo mailto
