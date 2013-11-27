@@ -21,6 +21,12 @@ Você pode optar por apenas consultar os códigos aqui no meu github mesmo, ou t
 * [Doctypes](https://github.com/wbruno/senac-html5-css3/blob/master/DOCTYPEs.md)
 * [Tags](https://github.com/wbruno/senac-html5-css3/blob/master/TAGs.md)
 * [Links](https://github.com/wbruno/senac-html5-css3/blob/master/LINKs.md)
+* [Cores](http://tableless.com.br/sobre-cor-e-webdesign/)
+* [Cores](http://tableless.com.br/cor-webdesign-2/)
+
+
+## Live Coding PSD 2 html
+* [Eventials Diego Eis](https://www.eventials.com/pt-br/tableless/live-coding-implementando-um-layout-com-html-css/)
 
 
 ## Contatos Professor William Bruno
